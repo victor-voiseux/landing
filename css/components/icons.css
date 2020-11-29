@@ -1,0 +1,8 @@
+.icon {	
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: center;
+	justify-content: space-around;
+	background-color: #211662;
+}
